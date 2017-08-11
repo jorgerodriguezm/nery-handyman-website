@@ -19,4 +19,4 @@ Página web administrable diseñda en Wordpress para una empresa encargada en el
 *Integración a Redes Sociales
 * Consultoría personal
 
-Para más información, consultar el siguiente [enlace](https://agenda89.wordpress.com/2016/11/18/nery-handyman-revisamos-lo-que-trae-la-web/)
+Para más información, consultar el siguiente [enlace](https://agenda89.wordpress.com/2016/11/18/nery-handyman-revisamos-lo-que-trae-la-web/).
