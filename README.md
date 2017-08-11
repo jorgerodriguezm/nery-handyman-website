@@ -11,12 +11,12 @@ Página web administrable diseñda en Wordpress para una empresa encargada en el
 
 * 6 Páginas y 4 subpáginas
 * Optimización de imágenes
-* Corrección de Estilo para una mejor lectura
+* Corrección de estilo para una mejor lectura
 * Posicionamiento en buscadores (SEO)
 * Implementación de Google Analytics
 * Integración de Google Maps
 * Formulario de Contacto
-*Integración a Redes Sociales
+* Integración a Redes Sociales
 * Consultoría personal
 
 Para más información, consultar el siguiente [enlace](https://agenda89.wordpress.com/2016/11/18/nery-handyman-revisamos-lo-que-trae-la-web/).
